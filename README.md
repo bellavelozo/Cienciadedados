@@ -1,2 +1,2 @@
 # Cienciadedados
-Bootcamp Cienência de dados
+Bootcamp Ciência de dados
